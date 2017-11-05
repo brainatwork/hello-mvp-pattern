@@ -12,7 +12,6 @@ public class App
     	//simulating the activity life cycle
     	Activity activity = new Activity();
     	activity.onCreate();
-    	//..
     }
 
 }
