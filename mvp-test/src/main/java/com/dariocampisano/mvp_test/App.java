@@ -1,9 +1,5 @@
 package com.dariocampisano.mvp_test;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	
